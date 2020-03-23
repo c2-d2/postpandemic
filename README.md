@@ -9,7 +9,7 @@ S.M. Kissler*, C. Tedijanto*, E. Goldstein, Y.H. Grad, M. Lipsitch
 https://www.medrxiv.org/content/10.1101/2020.03.04.20031112v1
 
 ## Description
-Generates simulated prevalence of HCoV-OC43, HCoV-HKU1, and SARS-CoV-2 in temperate regions, accounting for seasonal variation in transmission and cross-immunity. Code is implemented in _Mathematica_ 
+Generates simulated prevalence of HCoV-OC43, HCoV-HKU1, and SARS-CoV-2 in temperate regions, accounting for seasonal variation in transmission and cross-immunity. Code is implemented in _Mathematica_.
 
 ## License
 
